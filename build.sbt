@@ -4,7 +4,7 @@ ThisBuild / scalacOptions ++= Seq(
   "-deprecation",
   "-feature",
   "-unchecked",
-  "-Wunused:all",
+  "-Wunused:all"
 )
 
 lazy val root = project
